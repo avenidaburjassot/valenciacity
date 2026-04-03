@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valencia City Roof Terrazas S.L. — Registro de Sociedad | Daphne Inn Valencia</title>
+    <meta name="description" content="Ficha registral de Valencia City Roof Terrazas S.L. (CIF B40521973), sociedad limitada con nombre comercial Daphne Inn Valencia. Información corporativa, administradora y estado de cumplimiento normativo. | Corporate registry entry for Valencia City Roof Terrazas S.L., limited company trading as Daphne Inn Valencia.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://daphneinnvalencia.es/">
+    
+    <meta property="og:title" content="Valencia City Roof Terrazas S.L. — Ficha Registral">
+    <meta property="og:description" content="Información registral de la sociedad limitada Valencia City Roof Terrazas S.L., nombre comercial Daphne Inn Valencia.">
+    <meta property="og:url" content="https://daphneinnvalencia.es/">
+    <meta property="og:type" content="website">
+    
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect fill='%23003366' width='100' height='100' rx='8'/%3E%3Ctext x='50' y='65' font-size='48' fill='white' text-anchor='middle' font-family='sans-serif' font-weight='bold'%3ESL%3C/text%3E%3C/svg%3E">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600;700&family=Source+Serif+4:wght@600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        *, *::before, *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --primary: #003366;
+            --primary-light: #004488;
+            --secondary: #f5f5f5;
+            --text-dark: #1a1a1a;
+            --text-medium: #444444;
+            --text-light: #666666;
+            --border: #e0e0e0;
+            --border-dark: #cccccc;
+            --accent-red: #c62828;
+            --accent-orange: #e65100;
+            --accent-green: #2e7d32;
+            --bg-cream: #fafafa;
+            --bg-blue: #f0f4f8;
+        }
+        
+        body {
+            font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background-color: var(--bg-cream);
+            color: var(--text-dark);
+            line-height: 1.6;
+            font-size: 16px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        
+        /* Header */
+        .site-header {
+            background-color: var(--primary);
+            color: white;
+            padding: 20px 24px;
+            border-bottom: 3px solid var(--primary-light);
+        }
+        
+        .header-content {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        .header-label {
+            font-size: 11px;
+            font-weight: 600;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            opacity: 0.85;
+            margin-bottom: 8px;
+        }
+        
+        .header-title {
+            font-family: 'Source Serif 4', Georgia, serif;
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 4px;
+            line-height: 1.2;
+        }
+        
+        .header-subtitle {
+            font-size: 15px;
+            opacity: 0.9;
+            font-weight: 400;
+        }
+        
+        .header-subtitle-en {
+            font-size: 14px;
+            opacity: 0.75;
+            font-style: italic;
+            margin-top: 4px;
+        }
+        
+        /* Navigation */
+        .nav-bar {
+            background-color: white;
+            border-bottom: 1px solid var(--border);
+            padding: 12px 24px;
+        }
+        
+        .nav-content {
+            max-width: 900px;
+            margin: 0 auto;
+            display: flex;
+            gap: 24px;
+            flex-wrap: wrap;
+            font-size: 13px;
+        }
+        
+        .nav-link {
+            color: var(--text-medium);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 4px 0;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+        }
+        
+        .nav-link:hover {
+            color: var(--primary);
+            border-bottom-color: var(--primary);
+        }
+        
+        /* Main Container */
+        .main-container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 32px 24px 48px;
+        }
+        
+        /* Section Styles */
+        .registry-section {
+            background-color: white;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            margin-bottom: 24px;
+            overflow: hidden;
+        }
+        
+        .section-header {
+            background-color: var(--bg-blue);
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .section-title {
+            font-size: 14px;
+            font-weight: 700;
+            color: var(--primary);
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+        }
+        
+        .section-title-en {
+            font-size: 12px;
+            color: var(--text-light);
+            font-weight: 400;
+            margin-top: 2px;
+        }
+        
+        .section-body {
+            padding: 20px;
+        }
+        
+        /* Data Grid */
+        .data-grid {
+            display: grid;
+            gap: 16px;
+        }
+        
+        .data-row {
+            display: grid;
+            grid-template-columns: 160px 1fr;
+            gap: 12px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        
+        .data-row:last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+        
+        .data-label {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-medium);
+        }
+        
+        .data-value {
+            font-size: 14px;
+            color: var(--text-dark);
+        }
+        
+        .data-value-en {
+            font-size: 13px;
+            color: var(--text-light);
+            margin-top: 3px;
+            font-style: italic;
+        }
+        
+        .data-note {
+            font-size: 12px;
+            color: var(--text-light);
+            margin-top: 4px;
+        }
+        
+        /* Status Badges */
+        .status-badge {
+            display: inline-block;
+            font-size: 10px;
+            font-weight: 700;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            padding: 3px 8px;
+            border-radius: 3px;
+            margin-left: 8px;
+        }
+        
+        .status-critical {
+            background-color: #ffebee;
+            color: var(--accent-red);
+        }
+        
+        .status-warning {
+            background-color: #fff3e0;
+            color: var(--accent-orange);
+        }
+        
+        .status-pending {
+            background-color: #e3f2fd;
+            color: #1565c0;
+        }
+        
+        /* Entity Card */
+        .entity-card {
+            background-color: var(--secondary);
+            border-radius: 6px;
+            padding: 16px;
+            margin-bottom: 12px;
+        }
+        
+        .entity-name {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--text-dark);
+            margin-bottom: 4px;
+        }
+        
+        .entity-role {
+            font-size: 12px;
+            color: var(--text-light);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 8px;
+        }
+        
+        .entity-detail {
+            font-size: 13px;
+            color: var(--text-medium);
+        }
+        
+        /* Table Styles */
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+        }
+        
+        .data-table th {
+            text-align: left;
+            font-weight: 600;
+            color: var(--text-medium);
+            padding: 10px 12px;
+            background-color: var(--secondary);
+            border-bottom: 2px solid var(--border);
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .data-table td {
+            padding: 12px;
+            border-bottom: 1px solid #f5f5f5;
+            vertical-align: top;
+        }
+        
+        .data-table tr:last-child td {
+            border-bottom: none;
+        }
+        
+        /* Alert Box */
+        .info-box {
+            background-color: #fff8e1;
+            border-left: 4px solid var(--accent-orange);
+            padding: 14px 18px;
+            border-radius: 0 6px 6px 0;
+            margin: 16px 0;
+        }
+        
+        .info-box-title {
+            font-size: 13px;
+            font-weight: 700;
+            color: var(--accent-orange);
+            margin-bottom: 6px;
+        }
+        
+        .info-box-text {
+            font-size: 13px;
+            color: var(--text-medium);
+        }
+        
+        .info-box-text-en {
+            font-size: 12px;
+            color: var(--text-light);
+            font-style: italic;
+            margin-top: 6px;
+        }
+        
+        /* Proceedings List */
+        .proceedings-list {
+            display: grid;
+            gap: 12px;
+        }
+        
+        .proceeding-item {
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 14px 16px;
+            background-color: var(--secondary);
+        }
+        
+        .proceeding-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 12px;
+            margin-bottom: 8px;
+        }
+        
+        .proceeding-type {
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-light);
+        }
+        
+        .proceeding-ref {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-dark);
+            font-family: 'SF Mono', 'Consolas', monospace;
+        }
+        
+        .proceeding-status-badge {
+            font-size: 9px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            padding: 2px 6px;
+            border-radius: 2px;
+            background-color: var(--primary);
+            color: white;
+        }
+        
+        .proceeding-detail {
+            font-size: 13px;
+            color: var(--text-medium);
+            line-height: 1.5;
+        }
+        
+        .proceeding-detail-en {
+            font-size: 12px;
+            color: var(--text-light);
+            font-style: italic;
+            margin-top: 6px;
+            line-height: 1.5;
+        }
+        
+        /* External Link */
+        .external-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            font-size: 13px;
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            margin-top: 8px;
+        }
+        
+        .external-link:hover {
+            text-decoration: underline;
+        }
+        
+        .external-link::after {
+            content: "↗";
+            font-size: 11px;
+        }
+        
+        /* Footer */
+        .site-footer {
+            background-color: var(--primary);
+            color: white;
+            padding: 32px 24px;
+            margin-top: 48px;
+        }
+        
+        .footer-content {
+            max-width: 900px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        
+        .footer-text {
+            font-size: 13px;
+            opacity: 0.85;
+            line-height: 1.6;
+        }
+        
+        .footer-disclaimer {
+            font-size: 11px;
+            opacity: 0.65;
+            margin-top: 16px;
+            line-height: 1.5;
+        }
+        
+        /* Responsive */
+        @media (max-width: 600px) {
+            .header-title {
+                font-size: 22px;
+            }
+            
+            .data-row {
+                grid-template-columns: 1fr;
+                gap: 4px;
+            }
+            
+            .nav-content {
+                gap: 16px;
+            }
+            
+            .proceeding-header {
+                flex-direction: column;
+                gap: 6px;
+            }
+        }
+    </style>
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Valencia City Roof Terrazas S.L.",
+        "alternateName": ["Daphne Inn Valencia", "Daphne Inn Valencia City"],
+        "identifier": {
+            "@type": "PropertyValue",
+            "name": "CIF",
+            "value": "B40521973"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Avenida de Burjassot 228",
+            "addressLocality": "Valencia",
+            "addressRegion": "Comunitat Valenciana",
+            "addressCountry": "ES"
+        }
+    }
+    </script>
+</head>
+<body>
+    <header class="site-header">
+        <div class="header-content">
+            <div class="header-label">Ficha Registral de Sociedad / Corporate Registry Entry</div>
+            <h1 class="header-title">Valencia City Roof Terrazas S.L.</h1>
+            <p class="header-subtitle">Sociedad Limitada — CIF: B40521973 — Nombre comercial: Daphne Inn Valencia</p>
+            <p class="header-subtitle-en">Limited Company — Tax ID: B40521973 — Trading name: Daphne Inn Valencia</p>
+        </div>
+    </header>
+    
+    <nav class="nav-bar">
+        <div class="nav-content">
+            <a href="#entity" class="nav-link">Datos de la Sociedad</a>
+            <a href="#officers" class="nav-link">Órganos de Administración</a>
+            <a href="#brands" class="nav-link">Nombres Comerciales</a>
+            <a href="#compliance" class="nav-link">Cumplimiento Normativo</a>
+            <a href="#proceedings" class="nav-link">Expedientes Administrativos</a>
+            <a href="#verification" class="nav-link">Verificación Oficial</a>
+        </div>
+    </nav>
+    
+    <main class="main-container">
+        <!-- Entity Information -->
+        <section id="entity" class="registry-section">
+            <div class="section-header">
+                <h2 class="section-title">Datos de la Entidad Jurídica</h2>
+                <p class="section-title-en">Legal Entity Information</p>
+            </div>
+            <div class="section-body">
+                <div class="data-grid">
+                    <div class="data-row">
+                        <span class="data-label">Denominación Social</span>
+                        <div class="data-value">
+                            Valencia City Roof Terrazas S.L.
+                            <div class="data-value-en">Company Name</div>
+                        </div>
+                    </div>
+                    <div class="data-row">
+                        <span class="data-label">CIF / NIF</span>
+                        <div class="data-value">
+                            B40521973
+                            <div class="data-value-en">Spanish Tax Identification Number</div>
+                        </div>
+                    </div>
+                    <div class="data-row">
+                        <span class="data-label">Forma Jurídica</span>
+                        <div class="data-value">
+                            Sociedad de Responsabilidad Limitada (S.L.)
+                            <div class="data-value-en">Limited Liability Company</div>
+                        </div>
+                    </div>
+                    <div class="data-row">
+                        <span class="data-label">Actividad Declarada</span>
+                        <div class="data-value">
+                            Gestión inmobiliaria, arrendamiento de inmuebles
+                            <div class="data-value-en">Property management, real estate rental</div>
+                        </div>
+                    </div>
+                    <div class="data-row">
+                        <span class="data-label">Domicilio Social</span>
+                        <div class="data-value">
+                            Avenida de Burjassot 228, 46015 Valencia, España
+                            <div class="data-value-en">228 Burjassot Avenue, 46015 Valencia, Spain</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Corporate Officers -->
+        <section id="officers" class="registry-section">
+            <div class="section-header">
+                <h2 class="section-title">Órganos de Administración</h2>
+                <p class="section-title-en">Corporate Administration</p>
+            </div>
+            <div class="section-body">
+                <div class="entity-card">
+                    <div class="entity-name">Daphne Javiera Friedrichs</div>
+                    <div class="entity-role">Administradora Única</div>
+                    <div class="entity-detail">
+                        Cargo de administración conforme al régimen de administrador único de la sociedad limitada.
+                    </div>
+                    <div class="entity-detail" style="margin-top: 6px; font-size: 12px; color: var(--text-light); font-style: italic;">
+                        Sole Administrator position under the single-administrator regime of the limited company.
+                    </div>
+                </div>
+                
+                <div class="info-box">
+                    <div class="info-box-title">Persona Vinculada / Related Person</div>
+                    <div class="info-box-text">
+                        <strong>Michael</strong> — Persona física identificada en operaciones relacionadas con la sociedad, sin constancia de relación laboral, mercantil o profesional formalmente registrada.
+                    </div>
+                    <div class="info-box-text-en">
+                        Individual identified in connection with company operations, with no documented employment, commercial, or professional relationship on record.
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Trading Names -->
+        <section id="brands" class="registry-section">
+            <div class="section-header">
+                <h2 class="section-title">Nombres Comerciales</h2>
+                <p class="section-title-en">Trading Names &amp; Brands</p>
+            </div>
+            <div class="section-body">
+                <div class="data-grid">
+                    <div class="data-row">
+                        <span class="data-label">Nombre Principal</span>
+                        <div class="data-value">
+                            Daphne Inn Valencia
+                            <div class="data-value-en">Primary trading name</div>
+                        </div>
+                    </div>
+                    <div class="data-row">
+                        <span class="data-label">Variante</span>
+                        <div class="data-value">
+                            Daphne Inn Valencia City
+                            <div class="data-value-en">Alternate trading name</div>
+                        </div>
+                    </div>
+                    <div class="data-row">
+                        <span class="data-label">Presencia Digital</span>
+                        <div class="data-value">
+                            Anuncios activos en plataformas de alojamiento (Airbnb y otras)
+                            <div class="data-value-en">Active listings on accommodation platforms (Airbnb and others)</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Regulatory Compliance -->
+        <section id="compliance" class="registry-section">
+            <div class="section-header">
+                <h2 class="section-title">Estado de Cumplimiento Normativo</h2>
+                <p class="section-title-en">Regulatory Compliance Status</p>
+            </div>
+            <div class="section-body">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Concepto / Requirement</th>
+                            <th>Estado / Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <strong>Registro de Alquiler (NRA)</strong>
+                                <br><span style="font-size: 11px; color: var(--text-light);">Rental Registration Number</span>
+                            </td>
+                            <td>
+                                <span class="status-badge status-critical">No Registrado</span>
+                                <br>
+                                <span style="font-size: 12px; color: var(--text-medium); display: block; margin-top: 6px;">
+                                    Sin número de registro de alquiler vigente. Obligatorio desde julio 2025 para toda actividad de arrendamiento.
+                                </span>
+                                <span style="font-size: 11px; color: var(--text-light); font-style: italic; display: block; margin-top: 4px;">
+                                    No valid rental registration number. Mandatory since July 2025 for all rental activity.
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <strong>Licencia de Habitabilidad</strong>
+                                <br><span style="font-size: 11px; color: var(--text-light);">Habitation License</span>
+                            </td>
+                            <td>
+                                <span class="status-badge status-critical">Sin Licencia</span>
+                                <br>
+                                <span style="font-size: 12px; color: var(--text-medium); display: block; margin-top: 6px;">
+                                    Sin cédula de habitabilidad registrada para las unidades objeto de comercialización.
+                                </span>
+                                <span style="font-size: 11px; color: var(--text-light); font-style: italic; display: block; margin-top: 4px;">
+                                    No certificate of occupancy registered for marketed units.
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <strong>Registro Catastral</strong>
+                                <br><span style="font-size: 11px; color: var(--text-light);">Land Registry Record</span>
+                            </td>
+                            <td>
+                                <span style="font-size: 12px; color: var(--text-medium);">
+                                    <strong>Referencia:</strong> 4051511YJ2745A
+                                </span>
+                                <br>
+                                <span style="font-size: 12px; color: var(--text-medium); display: block; margin-top: 6px;">
+                                    El catastro registra 4 viviendas legales. No figuran registros para las unidades adicionales comercializadas.
+                                </span>
+                                <span style="font-size: 11px; color: var(--text-light); font-style: italic; display: block; margin-top: 4px;">
+                                    Registry shows 4 legal dwellings. No records exist for additional marketed units.
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <strong>Seguridad contra Incendios</strong>
+                                <br><span style="font-size: 11px; color: var(--text-light);">Fire Safety Compliance</span>
+                            </td>
+                            <td>
+                                <span class="status-badge status-critical">Deficiente</span>
+                                <br>
+                                <span style="font-size: 12px; color: var(--text-medium); display: block; margin-top: 6px;">
+                                    Expediente abierto por ausencia de extintores, detectores de humo y alarmas.
+                                </span>
+                                <span style="font-size: 11px; color: var(--text-light); font-style: italic; display: block; margin-top: 4px;">
+                                    File opened due to absence of extinguishers, smoke detectors, and alarms.
+                                </span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+        
+        <!-- Administrative Proceedings -->
+        <section id="proceedings" class="registry-section">
+            <div class="section-header">
+                <h2 class="section-title">Expedientes y Diligencias en Curso</h2>
+                <p class="section-title-en">Ongoing Administrative &amp; Legal Proceedings</p>
+            </div>
+            <div class="section-body">
+                <p style="font-size: 13px; color: var(--text-medium); margin-bottom: 16px;">
+                    A continuación se relacionan los expedientes administrativos y diligencias judiciales identificados en relación con la sociedad y su actividad. La información se basa en registros públicos y denuncias documentadas.
+                </p>
+                <p style="font-size: 12px; color: var(--text-light); font-style: italic; margin-bottom: 20px;">
+                    The following administrative files and judicial proceedings have been identified in connection with the company and its operations. Information is based on public records and documented complaints.
+                </p>
+                
+                <div class="proceedings-list">
+                    <div class="proceeding-item">
+                        <div class="proceeding-header">
+                            <div>
+                                <div class="proceeding-type">Penal — Policía Nacional</div>
+                                <div class="proceeding-ref">Atestados 1821/26, 2187/26, 6913/26</div>
+                            </div>
+                            <span class="proceeding-status-badge">En Investigación</span>
+                        </div>
+                        <div class="proceeding-detail">
+                            Diligencias previas abiertas por presuntas coacciones, acoso inmobiliario e intento de agresión. La Policía Judicial tiene facultades para ampliar la investigación a otros delitos conforme al Art. 31 bis del Código Penal.
+                        </div>
+                        <div class="proceeding-detail-en">
+                            Preliminary proceedings opened for alleged coercion, real estate harassment, and attempted assault. Judicial Police may expand investigation to additional offenses under Art. 31 bis of the Penal Code.
+                        </div>
+                    </div>
+                    
+                    <div class="proceeding-item">
+                        <div class="proceeding-header">
+                            <div>
+                                <div class="proceeding-type">Urbanismo — Ayuntamiento de Valencia</div>
+                                <div class="proceeding-ref">Exp. 00118/2026/059349</div>
+                            </div>
+                            <span class="proceeding-status-badge">En Tramitación</span>
+                        </div>
+                        <div class="proceeding-detail">
+                            Expediente de disciplina urbanística por subdivisión ilegal de vivienda y construcción no autorizada. El expediente 3501-2022-1524 fue trasladado al Servicio de Inspección Municipal.
+                        </div>
+                        <div class="proceeding-detail-en">
+                            Urban discipline file for illegal dwelling subdivision and unauthorized construction. File 3501-2022-1524 transferred to Municipal Inspection Service.
+                        </div>
+                    </div>
+                    
+                    <div class="proceeding-item">
+                        <div class="proceeding-header">
+                            <div>
+                                <div class="proceeding-type">Protección de Datos — AEPD</div>
+                                <div class="proceeding-ref">REGAGE26e00023753824</div>
+                            </div>
+                            <span class="proceeding-status-badge">En Tramitación</span>
+                        </div>
+                        <div class="proceeding-detail">
+                            Investigación por instalación de videovigilancia sin base legal, sin carteles informativos y con cobertura de zonas privadas.
+                        </div>
+                        <div class="proceeding-detail-en">
+                            Investigation into video surveillance installation without legal basis, signage, and covering private areas.
+                        </div>
+                    </div>
+                    
+                    <div class="proceeding-item">
+                        <div class="proceeding-header">
+                            <div>
+                                <div class="proceeding-type">Turismo — Generalitat Valenciana</div>
+                                <div class="proceeding-ref">GVRTE/2026/892255</div>
+                            </div>
+                            <span class="proceeding-status-badge">En Tramitación</span>
+                        </div>
+                        <div class="proceeding-detail">
+                            Expediente por operar sin registro de alquiler (NRA) y uso presuntamente fraudulento de contratos de temporada.
+                        </div>
+                        <div class="proceeding-detail-en">
+                            File for operating without rental registration (NRA) and allegedly fraudulent use of seasonal contracts.
+                        </div>
+                    </div>
+                    
+                    <div class="proceeding-item">
+                        <div class="proceeding-header">
+                            <div>
+                                <div class="proceeding-type">Fiscalidad — AEAT</div>
+                                <div class="proceeding-ref">RGE201011502026</div>
+                            </div>
+                            <span class="proceeding-status-badge">En Investigación</span>
+                        </div>
+                        <div class="proceeding-detail">
+                            Denuncia por presunto fraude fiscal relacionado con ingresos de alquiler no declarados.
+                        </div>
+                        <div class="proceeding-detail-en">
+                            Complaint regarding alleged tax fraud related to undeclared rental income.
+                        </div>
+                    </div>
+                    
+                    <div class="proceeding-item">
+                        <div class="proceeding-header">
+                            <div>
+                                <div class="proceeding-type">Deontología — ICAV</div>
+                                <div class="proceeding-ref">AC.R 125/2026</div>
+                            </div>
+                            <span class="proceeding-status-badge">En Tramitación</span>
+                        </div>
+                        <div class="proceeding-detail">
+                            Expediente disciplinario abierto en el Ilustre Colegio de Abogados de Valencia respecto a actuaciones profesionales vinculadas.
+                        </div>
+                        <div class="proceeding-detail-en">
+                            Disciplinary file opened at the Valencia Bar Association regarding related professional conduct.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Verification Links -->
+        <section id="verification" class="registry-section">
+            <div class="section-header">
+                <h2 class="section-title">Enlaces de Verificación Oficial</h2>
+                <p class="section-title-en">Official Verification Links</p>
+            </div>
+            <div class="section-body">
+                <p style="font-size: 13px; color: var(--text-medium); margin-bottom: 20px;">
+                    Los siguientes enlaces permiten consultar registros públicos oficiales para verificar la información contenida en esta ficha registral.
+                </p>
+                <p style="font-size: 12px; color: var(--text-light); font-style: italic; margin-bottom: 20px;">
+                    The following links provide access to official public registries to verify the information in this registry entry.
+                </p>
+                
+                <div style="display: grid; gap: 12px;">
+                    <div style="background-color: var(--secondary); padding: 14px; border-radius: 6px;">
+                        <div style="font-weight: 600; font-size: 14px; margin-bottom: 4px;">Sede Electrónica del Catastro</div>
+                        <div style="font-size: 12px; color: var(--text-light); margin-bottom: 8px;">Consulta de referencias catastrales y configuración de inmuebles.</div>
+                        <a href="https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?RC1=4051511&amp;RC2=YJ2745A" target="_blank" rel="noopener noreferrer" class="external-link">Consultar Referencia 4051511YJ2745A</a>
+                    </div>
+                    
+                    <div style="background-color: var(--secondary); padding: 14px; border-radius: 6px;">
+                        <div style="font-weight: 600; font-size: 14px; margin-bottom: 4px;">Registro Mercantil Central</div>
+                        <div style="font-size: 12px; color: var(--text-light); margin-bottom: 8px;">Consulta de datos registrales de sociedades.</div>
+                        <a href="https://www.registradores.org/" target="_blank" rel="noopener noreferrer" class="external-link">Acceder al Registro Mercantil</a>
+                    </div>
+                    
+                    <div style="background-color: var(--secondary); padding: 14px; border-radius: 6px;">
+                        <div style="font-weight: 600; font-size: 14px; margin-bottom: 4px;">Agencia Tributaria (AEAT)</div>
+                        <div style="font-size: 12px; color: var(--text-light); margin-bottom: 8px;">Verificación de NIF/CIF de sociedades.</div>
+                        <a href="https://www.agenciatributaria.es/" target="_blank" rel="noopener noreferrer" class="external-link">Acceder a AEAT</a>
+                    </div>
+                    
+                    <div style="background-color: var(--secondary); padding: 14px; border-radius: 6px;">
+                        <div style="font-weight: 600; font-size: 14px; margin-bottom: 4px;">Agència de l'Habitatge — Generalitat Valenciana</div>
+                        <div style="font-size: 12px; color: var(--text-light); margin-bottom: 8px;">Consulta de registros de alquiler (NRA) y licencias turísticas.</div>
+                        <a href="https://habitatge.gva.es/" target="_blank" rel="noopener noreferrer" class="external-link">Acceder a la Agència de l'Habitatge</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Platform Status -->
+        <section class="registry-section">
+            <div class="section-header">
+                <h2 class="section-title">Presencia en Plataformas Digitales</h2>
+                <p class="section-title-en">Digital Platform Presence</p>
+            </div>
+            <div class="section-body">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Plataforma / Platform</th>
+                            <th>Estado / Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Airbnb</td>
+                            <td>
+                                <span style="font-size: 12px; color: var(--text-medium);">
+                                    Anuncio activo detectado. Presunta utilización de número de registro de alquiler (NRA) no válido.
+                                </span>
+                                <br>
+                                <span style="font-size: 11px; color: var(--text-light); font-style: italic;">
+                                    Active listing detected. Alleged use of invalid rental registration number (NRA).
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Spotahome</td>
+                            <td>
+                                <span style="font-size: 12px; color: var(--text-medium);">
+                                    Anuncios despublicados el 4 de febrero de 2026 por incumplimiento de requisitos de registro.
+                                </span>
+                                <br>
+                                <span style="font-size: 11px; color: var(--text-light); font-style: italic;">
+                                    Listings removed 4 February 2026 for non-compliance with registration requirements.
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Flatio</td>
+                            <td>
+                                <span style="font-size: 12px; color: var(--text-medium);">
+                                    Operador despublicado de la red tras notificación de irregularidades.
+                                </span>
+                                <br>
+                                <span style="font-size: 11px; color: var(--text-light); font-style: italic;">
+                                    Operator delisted from network following notification of irregularities.
+                                </span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+        
+        <!-- Last Updated -->
+        <div style="text-align: center; padding: 20px; font-size: 12px; color: var(--text-light);">
+            <p>
+                <strong>Última actualización:</strong> <time datetime="2026-04-03">3 de abril de 2026</time>
+                <span style="margin: 0 8px;">|</span>
+                <strong>Last updated:</strong> <time datetime="2026-04-03">3 April 2026</time>
+            </p>
+        </div>
+    </main>
+    
+    <footer class="site-footer">
+        <div class="footer-content">
+            <p class="footer-text">
+                Esta página presenta información registral de acceso público sobre Valencia City Roof Terrazas S.L.
+                <br>
+                <em>This page presents publicly accessible registry information about Valencia City Roof Terrazas S.L.</em>
+            </p>
+            <p class="footer-disclaimer">
+                La información contenida en esta ficha proviene de registros públicos y fuentes documentadas. No constituye asesoramiento jurídico.
+                <br>
+                Information contained in this entry is sourced from public registries and documented sources. It does not constitute legal advice.
+            </p>
+        </div>
+    </footer>
+</body>
+</html>
